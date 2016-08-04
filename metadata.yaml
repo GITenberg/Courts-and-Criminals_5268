@@ -1,0 +1,28 @@
+_repo: Courts-and-Criminals_5268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Train, Arthur Cheney
+    birthdate: 1875
+    deathdate: 1945
+    gutenberg_agent_id: '1756'
+    url: http://www.gutenberg.org/2009/agents/1756
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminal justice, Administration of -- United States'
+- !lcc 'KF'
+- !lcsh 'Crime -- United States'
+- !lcsh 'Criminals -- United States'
+- GITenberg
+title: Courts and Criminals
+url: http://www.gutenberg.org/ebooks/5268
